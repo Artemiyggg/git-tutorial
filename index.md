@@ -22,3 +22,9 @@ git commit -m "<commit message>"
 ~~~
 git branch <branch name>
 ~~~
+
+## Слияние веток 
+Для слияние текущей ветки с другой веткой нужно ввести команду:
+~~~
+git merge "<branch name>"
+~~~
