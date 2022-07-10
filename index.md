@@ -36,3 +36,9 @@ git merge "<branch name>"
 git rebase <branch to rebase>
 ~~~
 
+## Клонирование репозитория 
+Для клонирования репозитория нужно ввести команду:
+~~~
+git clone <url to repository>
+~~~
+
