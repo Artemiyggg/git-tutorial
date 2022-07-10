@@ -42,3 +42,8 @@ git rebase <branch to rebase>
 git clone <url to repository>
 ~~~
 
+## Сброс изменений 
+Для сброса изменений введите команду:
+~~~
+git reset <commit hash>
+~~~
